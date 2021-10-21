@@ -1,6 +1,6 @@
 
-p{
-    background-image: url("photo.jpeg") ;
+body{
+    background-image: url("photo.jpeg") 
 }
 h1 {
     text-align: center;         /* kat eml ktaba fel west*/
@@ -37,11 +37,6 @@ li{
 li{
     font-size: 150%;
 }
-ul{
-    list-style: ;
-}
-
-
 p{
     width: 500px;
     height: 250px;
